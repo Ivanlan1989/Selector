@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a5f148d22f80d274792c4e9ca4ac237b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GLRectMat: {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
